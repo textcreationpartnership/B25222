@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Janeway's sayings not long before his death.</title>
+            <author>Janeway, James, 1636?-1674.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25222</idno><idno type="EEBO-CITATION">99888180</idno>
+  <idno type="VID">194380</idno>
+  <idno type="EEBO-PROQUEST">2240902134</idno>
+  
+            <idno type="STC">Wing J477</idno>
+            <idno type="STC">ESTC R229142</idno>
+            <idno type="PROQUEST">ocm99888180</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888180e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194380)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B3:3[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Janeway's sayings not long before his death.</title>
+                  <author>Janeway, James, 1636?-1674.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by A. Purslow,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Maxims --  Early works to 1800.</term>
+               <term type="topical_term">Proverbs, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_sayings">
+            <pb facs="tcp:194380:1"/>
+            <list>
+               <head>M<seg rend="sup">r.</seg> JANEVVAY'S SAYINGS Not long before his DEATH.</head>
+               <item>1. TO disparage Sin, and to incourage Ho<g ref="char:EOLhyphen"/>liness is none of the least Works of a Minister of Christ.</item>
+               <item>2. The Wicked may drink, roar, and swagger, and sell their precious Souls for a moments joy, and make light of Damnation, but let them know, <hi>for all these things God will bring them to Judgement,</hi> an eter<g ref="char:EOLhyphen"/>nity of intollerable sorrows must pay for their short pleasures.</item>
+               <item>3. Hence it is that the serious Christian makes it his business to avoid this dreadful misery; let the wicked please themselves in their sorrows, he knows 'tis but a little while, and all will be mended, and their minds changed.</item>
+               <item>4. He is willing to stay for his happiness and joys, till he come to another World; and he doth not envy the Wicked what they do enjoy, let them make the best of it.</item>
+               <item>5. The unseen world, which most forget, is al<g ref="char:EOLhyphen"/>ways in the Christians eye, and if he may but live happily there, he passeth not if he run through re<g ref="char:EOLhyphen"/>proaches, injuries, and a thousand Deaths, to that glorious and endless Life.</item>
+               <item>6. This is the grand Reason of the Christians pa<g ref="char:EOLhyphen"/>tience; this makes him judge it no folly, but the great<g ref="char:EOLhyphen"/>est wisdom to keep the Commandements of God, and the Faith of Jesus.</item>
+               <item>7. Those which live like Devils, are not like to dye like Saints, that count all their time lost, they do him no service in, which make a jest of Damning, and are as merry within a step of Hell, as if it and a Tavern were alike.</item>
+               <item>8. And yet how well are wicked men pleased and contented with their own condition, and laugh at the Godly, as if it were a dangerous and mad thing to go to Heaven, and the truest happiness to be mise<g ref="char:EOLhyphen"/>rable for ever?</item>
+               <item>9. The Devil himself may as well expect to shake off his chains, and be restored to his lost glo<g ref="char:EOLhyphen"/>ry, as they: O be not deceived, as you sow so you must reap.</item>
+               <item>10. God gives this world oftentimes to his greatest Enemies; he gives glory in another World to none but his Friends and Children.</item>
+               <item>11. Nay, let me speak it freely, they which gain this World with their negligence of Heaven, shall at their death lose both.</item>
+               <item>12. Many that would be counted wise, drive a great Trade for that which is next to nothing, and that lay in no better provisions than gravel, clay, or dung, when they are bound for eternity.</item>
+               <item>13. They think they make a very wise bargain, when they sell their Conscience, God, and Heaven, for a little of that which some call riches.</item>
+               <item>14. O that I could but bring down the price of subluary things, and raise the things of that other World, to their true worth.</item>
+               <item>15. Think not meanly of Holiness, it's the most excellent thing, it is the greatest Riches, and man's highest Dignity.</item>
+               <item>16. He that knows the worth of Christ, and the Nature of his own soul, let him not envy those that swell like bladders upon water for a moment, and <hi>God</hi> puffs them of, and where are they?</item>
+               <item>17. How can they look for Heaven when they dye, that thought it not worth their minding whilst they lived?</item>
+               <item>18. Whatsoever men pursue below Christ, will yield them but little happiness and comfort in a<g ref="char:EOLhyphen"/>nother World.</item>
+               <item>19. Not every one that wears Christ's Livery shall have his wages.</item>
+               <item>20. How many seeming Saints shall gain nothing at Death, but a thorovv knowledge of their own folly?</item>
+               <item>21. O please not your self with fancies, sickness and death is coming, and then you will know better, the reason of my earnest pleading with you in this matter.</item>
+               <item>22. He that hath not got more then ever any Hi<g ref="char:EOLhyphen"/>pocrite could attain, or shall, will miss of Heaven.</item>
+               <item>23. The best of <hi>God</hi>'s Children are most suspi<g ref="char:EOLhyphen"/>cious of themselves, and afraid of their own deceit<g ref="char:EOLhyphen"/>ful hearts; and their great request is, that <hi>God</hi> would deliver them from mistakes in matters of everlasting consequence.</item>
+               <item>24. It's a common thing for VVicked men to carry their false peace along vvith them to the grave.</item>
+               <item>25. Hovv many thousands are there that dye like Lambs, that are but Svvine, and have the Devils brand upon their fore-heads?</item>
+               <item>26. Many are caried very quietly to Hell, and fear nothing till they feel, and are not brought to their sen<g ref="char:EOLhyphen"/>ces, till unspeakable horror and anguish doth it.</item>
+               <item>27. It hath not a little puzled some, as vvell as <hi>David,</hi> to see the vvicked dye quietly, and the godly to have a strange death; but <hi>God</hi> vvill shortly resolve this Riddle.</item>
+               <item>28. That soul vvhich hath seen the death of Sin, is a person fit for death.</item>
+               <item>29. That Man is like to be a gainer by Death, vvho contemns earth, and makes heaven his choice.</item>
+               <item>30. He that counts nothing vvorth the having, ex<g ref="char:EOLhyphen"/>cept Christ, and for Christ, cannot be miserable, vvhen he is lodged safe in his imbraces.</item>
+               <item>31. <hi>God</hi> is oftentimes better, but never vvorse than his vvord: the running Christian shall at last obtain the prize, and the crovvn he fights for he shall vvear.</item>
+               <item>32. VVhat though the Vessel be tost and broke? it shall come safe vvith its rich Lading, to the desired Harbour.</item>
+               <item>33. O you foolish vvorld, condemn not these spi<g ref="char:EOLhyphen"/>ritual vvise Merchants, till you knovv vvhat their re<g ref="char:EOLhyphen"/>turns are, vvhen their burden is delivered.</item>
+               <item>34. He that is vvilling to dye for Christ, shall live as long as Christ lives, in happiness and rest.</item>
+               <item>35. Those souls are out of gun-shot, that are in<g ref="char:EOLhyphen"/>strumental for the shaking the Kingdom of Satan, and vveakning the interest of Hell in the vvorld.</item>
+               <item>36. VVho vvould not be a <hi>Christian</hi> in good ear<g ref="char:EOLhyphen"/>nest? sure none but a mad-man or a fool.</item>
+               <item>37. The highest vvorldlings are belovv the mean<g ref="char:EOLhyphen"/>est and lovvest child of <hi>God.</hi>
+               </item>
+               <item>38. <hi>Christianity</hi> is a clear demonstration of invisi<g ref="char:EOLhyphen"/>bles, vvitness the many earnests of their Profession, vvhat vvarm refreshing Rays of Divine love break in upon their souls, vvhat joy, vvhat experiments, and blessed intercourses have past betvvixt <hi>God</hi> and such souls, the fire hath burnt, and of a sudden the soul hath, e're it vvas avvare been carried above the vvorld.</item>
+               <item>39. The Spirit of truth vvill not vvitness to a lye, neither vvill goodness it self, put a cheat upon poor creatures.</item>
+               <item>40. <hi>Balaam</hi>'s vvish may throughly convince sin<g ref="char:EOLhyphen"/>ners, that Holiness is no Madness, Piety no Fancy, and Religion no Delusion.</item>
+               <item>41. I am persvvaded that all the Reprobates in Hell, vvill one day justifie the children of <hi>God,</hi> for their seriousness, and vvish a thousand times, that they had had their Scornes; losses, and torments.</item>
+               <item>42. Well then, our Enemies themselves, being Judges, an <hi>Israelite</hi> indeed, is a person of true worth; and without controversie, his estate is, and shall be comfortable, blessed, and glorious.</item>
+               <item>43. O Christian, as long as God is true, you shall not be deceived, as long as he is happy, you shall not be miserable, you are well enough, go on resolutely, 'tis but yet a little while, and you shall see all this, and more than this a thousand times.</item>
+               <item>44. Death will shortly tare off <hi>Joshua</hi>'s rags, and present him before the Lord, without spot or wrin<g ref="char:EOLhyphen"/>kle.</item>
+               <item>45. Sin indeed accompanies the wicked to ano<g ref="char:EOLhyphen"/>ther World, he rests from his pleasures, and his wicked works follow him.</item>
+               <item>46. But it is far otherwise with the godly, sin was his burden, and death shall unload him.</item>
+               <item>47. Sin shall be confin'd to Hell, Heaven enter<g ref="char:EOLhyphen"/>tains no such deformity.</item>
+               <item>48. This Tyrant shall no more inslave any of Christs Subjects.</item>
+               <item>49. The house of <hi>Saul,</hi> and the house of <hi>David</hi> shall no longer contend, that sad conflict between the flesh and the Spirit, shall then be determined by a full victory.</item>
+               <item>50. Death sets the Soul out of the Devils reach.</item>
+               <item>51. This Angel hath nothing to do in Heaven, this Serpent shall not come into the higher Paradise, nor Satan creep into this <hi>Eden.</hi>
+               </item>
+               <item>52. O happy day, when will it come when the Devil shall be as unlike to tempt, as our hearts to close?</item>
+               <item>53. When we are got once safe to rest, the Devil shall as easily shake <hi>God</hi>'s throne, as our happiness.</item>
+               <item>54. Death turns the key, and bolts and bars this enemy out; then, O then thou shalt see this <hi>Pharaoh</hi> cast dead on the shore.</item>
+               <item>55. Christian, expect not as long as any of that <hi>Cainish</hi> generatian breath, that thou shouldst be long secure.</item>
+               <item>56. What though the world speak great words? thou shalt e're long ride in state to glory, and then let them do their worst.</item>
+               <item>57. VVhen thou art in Heaven, they may curse and encrease their own misery, but they shall not in the least diminish thy tranquility.</item>
+               <item>58. The beauty of this inferiour world vvill be darkned by the brightness of that light, vvhich Death leads thee into.</item>
+               <item>59. Death blovvs the dust out of our eyes, it plucks off the vail, and shevvs us quickly the glory of both VVorlds.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> A. Purslow, 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
